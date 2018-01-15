@@ -1,0 +1,11 @@
+{
+  "name": "postcss-icon.material-design",
+  "version": "0.0.2",
+  "main": "mdi.js",
+  "repository": "https://github.com/retyui/postcss-icon.material-design",
+  "author": "retyui <vamnemne@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "postcss-icon": "7.x"
+  }
+}
